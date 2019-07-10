@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-default .brand {
+    padding: 0px 45px!important;
+    margin: 15px!important;
+}
+.metric p {
+	text-align: center; 
+}
